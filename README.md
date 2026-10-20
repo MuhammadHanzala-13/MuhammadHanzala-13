@@ -9,14 +9,14 @@
 
 ---
 
-### [ABOUT] Profile Summary
+### <h3><img src="https://img.icons8.com/?size=100&id=KRjNOLMxdNYx&format=png&color=000000" width="22" height="22" /> Profile Summary</h3>
 * **Current Focus:** Building production-grade AI applications, RAG-based systems, and automated computer vision pipelines.
 * **Core Expertise:** Machine Learning, Computer Vision (OpenCV, CNNs), Python, FastAPI, and scalable backend services.
 * **Interests:** Exploring advanced LLM orchestration, agentic AI frameworks, and edge deployment.
 
 ---
 
-### [TECH_STACK] Engineering Arsenal
+### <h3><img src="https://img.icons8.com/?size=100&id=53017&format=png&color=000000" width="22" height="22" /> Engineering Arsenal</h3>
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -28,7 +28,7 @@
 
 ---
 
-### [STATS] GitHub Metrics
+### <h3><img src="https://img.icons8.com/?size=100&id=118557&format=png&color=000000" width="22" height="22" /> GitHub Metrics</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=MuhammadHanzala-13&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -41,11 +41,19 @@
 
 ---
 
-### [QUOTE] Dev Inspiration
+### <h3><img src="https://img.icons8.com/?size=100&id=480QZ1z7xYDd&format=png&color=000000" width="22" height="22" /> Dev Inspiration</h3>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
+
+---
+
+### <h3><img src="https://img.icons8.com/?size=100&id=43608&format=png&color=000000" width="22" height="22" /> Contact & Channels</h3>
+
+* **LinkedIn:** [muhammadhanzala13](https://www.linkedin.com/in/muhammadhanzala13)
+* **Email:** hanzalahz52526@gmail.com
+* **GitHub:** [MuhammadHanzala-13](https://github.com/MuhammadHanzala-13)
 
 ---
 
