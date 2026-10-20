@@ -5,7 +5,7 @@
 
 <!-- ANIMATED TYPING HEADER -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=30&letterSpacing=high&duration=3000&pause=2000&color=00B4D8&width=650&lines=AI+Engineer%2C+Computer+Vision+%26+RAG+Systems;Machine+Learning+Practitioner;Full+Stack+Python+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=27&letterSpacing=high&duration=3000&pause=2000&color=13C0B3DC&multiline=true&width=510&height=200&lines=Architecting+Scalable+AI+Systems" alt="Typing SVG" /></a>
 </p>
 
 ---
