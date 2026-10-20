@@ -10,32 +10,29 @@
 
 ---
 
-<!-- SIDE-BY-SIDE INTRO + ANIMATED GIF -->
-<table width="100%" border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>Profile Summary</h3>
-      <ul>
-        <li>Current Focus: Building production-grade AI applications, RAG-based systems, and automated computer vision pipelines.</li>
-        <li>Collaboration Goals: Open-source Artificial Intelligence, Computer Vision, and Full Stack Python/FastAPI projects.</li>
-        <li>Core Expertise: Machine Learning, CNNs, OpenCV, RAG architecture, FastAPI, and data preprocessing workflows.</li>
-        <li>Contact Email: hanzalahz52526@gmail.com</li>
-      </ul>
-      <br>
-      <b>Connect with me:</b><br>
-      <p align="left">
-        <a href="https://linkedin.com/in/muhammadhanzala13" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-        <a href="mailto:hanzalahz52526@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/></a>
-        <a href="https://github.com/MuhammadHanzala-13" target="_blank"><img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/></a>
-      </p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTRvd2U2OHlrb3h1NnI0bTNiNDlxaXdmZWs4aDI4Mjhzc2p3YXRqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="180" alt="Coding GIF 1" />
-      <br><br>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJqNGl6MmEyYWtkN3hraGZwcTF4NHJ1Y2l6ZHQ5eWNqN3J2YjhoNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="180" alt="Coding GIF 2" />
-    </td>
-  </tr>
-</table>
+### Profile Summary
+
+* Current Focus: Building production-grade AI applications, RAG-based systems, and automated computer vision pipelines
+* Collaboration Goals: Open-source Artificial Intelligence, Computer Vision, and Full Stack Python/FastAPI projects
+* Core Expertise: Machine Learning, CNNs, OpenCV, RAG architecture, FastAPI, and data preprocessing workflows
+* Contact Email: hanzalahz52526@gmail.com
+
+<br>
+
+<b><p align="center">Connect with me:</p></b><br>
+<p align="center">
+  <a href="https://linkedin.com/in/muhammadhanzala13" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="mailto:hanzalahz52526@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="https://github.com/MuhammadHanzala-13" target="_blank"><img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/></a>
+</p>
+<br>
+
+<!-- ANIMATED GIFS SECTION BELOW PROFILE SUMMARY -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTRvd2U2OHlrb3h1NnI0bTNiNDlxaXdmZWs4aDI4Mjhzc2p3YXRqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="320" alt="Coding GIF 1" style="padding: 10px;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJqNGl6MmEyYWtkN3hraGZwcTF4NHJ1Y2l6ZHQ5eWNqN3J2YjhoNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="280" alt="Coding GIF 2" style="padding: 10px;" />
+</p>
 
 ---
 
