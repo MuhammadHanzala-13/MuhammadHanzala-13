@@ -5,13 +5,13 @@
 
 <!-- ANIMATED TYPING HEADER -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=30&letterSpacing=high&duration=3000&pause=2000&color=00B4D8&width=650&lines=AI+Engineer%2C+Computer+Vision+%26+RAG+Systems;FastAPI+%26+Python+Automation" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=30&letterSpacing=high&duration=3000&pause=2000&color=00B4D8&width=650&lines=AI+Engineer%2C+Computer+Vision+%26+RAG+Systems;Machine+Learning+Practitioner;Full+Stack+Python+Developer" alt="Typing SVG" /></a>
 </p>
 
 ---
 
 <!-- SIDE-BY-SIDE INTRO + ANIMATED GIF -->
-<table border="0" style="border: none;">
+<table width="100%" border="0">
   <tr>
     <td width="60%" valign="top">
       <h3>Profile Summary</h3>
@@ -30,9 +30,9 @@
       </p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTRvd2U2OHlrb3h1NnI0bTNiNDlxaXdmZWs4aDI4Mjhzc2p3YXRqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="260" alt="Coding GIF 1" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTRvd2U2OHlrb3h1NnI0bTNiNDlxaXdmZWs4aDI4Mjhzc2p3YXRqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="180" alt="Coding GIF 1" />
       <br><br>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJqNGl6MmEyYWtkN3hraGZwcTF4NHJ1Y2l6ZHQ5eWNqN3J2YjhoNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="220" alt="Coding GIF 2" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJqNGl6MmEyYWtkN3hraGZwcTF4NHJ1Y2l6ZHQ5eWNqN3J2YjhoNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="180" alt="Coding GIF 2" />
     </td>
   </tr>
 </table>
