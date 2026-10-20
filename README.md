@@ -10,13 +10,12 @@
 
 ---
 
-### Profile Summary
+## Profile Summary
 
-* Current Focus: Building production-grade AI applications, RAG-based systems, and automated computer vision pipelines
-* Collaboration Goals: Open-source Artificial Intelligence, Computer Vision, and Full Stack Python/FastAPI projects
-* Core Expertise: Machine Learning, CNNs, OpenCV, RAG architecture, FastAPI, and data preprocessing workflows
-* Contact Email: hanzalahz52526@gmail.com
-
+* **Current Focus:** Architecting scalable AI applications, advanced retrieval-augmented generation (RAG) models, and automated vision systems.
+* **Collaboration Interests:** Innovative AI/ML projects, computer vision research, and modern full-stack FastAPI/Python microservices.
+* **Key Specializations:** ML/DL Pipeline Development, Model Optimization, OpenCV, RAG Frameworks, FastAPI, and Vector Databases.
+* **Get in Touch:** hanzalahz52526@gmail.com
 <br>
 
 <b><p align="center">Connect with me:</p></b><br>
@@ -36,7 +35,7 @@
 
 ---
 
-### Engineering Arsenal & Tech Stack
+## Engineering Arsenal & Tech Stack
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -48,7 +47,7 @@
 
 ---
 
-### GitHub Metrics & Activity
+## GitHub Metrics & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHanzala-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
