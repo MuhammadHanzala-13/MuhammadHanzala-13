@@ -58,5 +58,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadHanzala-13&icon=2&color=6" alt="Profile Views" />
+  <a href="https://github.com/MuhammadHanzala-13/MuhammadHanzala-13">
+    <img src="https://komarev.com/ghpvc/?username=MuhammadHanzala-13&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </a>
 </p>
