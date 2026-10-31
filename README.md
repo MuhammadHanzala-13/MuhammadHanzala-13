@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=auto&section=header&reversal=false&text=Muhammad+Hanzala&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=52&fontAlignY=33&animation=scaleIn&rotate=0&strokeWidth=0&desc=AI+Engineer&descSize=26&descAlign=50&descAlignY=60" alt="Header Banner" width="100%" />
 </p>
 
+
 <!-- ANIMATED TYPING HEADER -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=27&letterSpacing=high&duration=3000&pause=2000&color=13C0B3DC&multiline=true&width=500&height=100&lines=Architecting+Scalable+AI+Systems" alt="Typing SVG" /></a>
