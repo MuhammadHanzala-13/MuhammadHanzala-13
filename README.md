@@ -49,21 +49,27 @@
 
 </div>
 
----
-
 ## GitHub Metrics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHanzala-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=MuhammadHanzala-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=MuhammadHanzala-13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHanzala-13&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MuhammadHanzala-13&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
 </p>
 
----
 
+<!-- SNAKE ANIMATION -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/MuhammadHanzala-13/count.svg" alt="Profile Views" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadHanzala-13/MuhammadHanzala-13/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadHanzala-13/MuhammadHanzala-13/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/MuhammadHanzala-13/MuhammadHanzala-13/output/github-contribution-grid-snake.svg" width="70%">
+  </picture>
+</p>
+<!--  -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhammadHanzala-13.MuhammadHanzala-13" alt="Profile Views" />
 </p>
