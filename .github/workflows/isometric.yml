@@ -5,7 +5,6 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-# Yeh block permissions grant karega jo missing thiin
 permissions:
   contents: write
 
@@ -14,7 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: lowlighter/metrics@latest
+
+      - name: Generate Isometric Calendar
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: MuhammadHanzala-13
@@ -22,3 +23,10 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          filename: github-metrics-isocalendar.svg
+
+      - name: Push generated file to repository
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update isometric 3d calendar"
+          file_pattern: github-metrics-isocalendar.svg
