@@ -53,12 +53,8 @@
 ## GitHub Metrics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=MuhammadHanzala-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=MuhammadHanzala-13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MuhammadHanzala-13&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=MuhammadHanzala-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&ring_color=00B4D8&fire_color=00B4D8" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=MuhammadHanzala-13&theme=tokyonight&hide_border=true&ring=00B4D8&fire=00B4D8" alt="GitHub Streak" />
 </p>
 
 
