@@ -49,6 +49,7 @@
 
 </div>
 
+---
 ## GitHub Metrics & Activity
 
 <p align="center">
@@ -63,13 +64,23 @@
 
 <!-- SNAKE ANIMATION -->
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=400&lines=Coding+Activity+Visualization" alt="Typing Indicator" />
+</p>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadHanzala-13/MuhammadHanzala-13/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadHanzala-13/MuhammadHanzala-13/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/MuhammadHanzala-13/MuhammadHanzala-13/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/MuhammadHanzala-13/MuhammadHanzala-13/output/github-contribution-grid-snake.svg" width="70%">
   </picture>
 </p>
+<!-- m -->
+<div>
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,pytorch,tensorflow,fastapi,nextjs,postgres,mongodb,redis,docker,git,linux&theme=dark" />
+</p>
+</div>
 <!--  -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhammadHanzala-13.MuhammadHanzala-13" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/MuhammadHanzala-13?color=00B4D8&label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/MuhammadHanzala-13?color=13C0B3&label=Repositories&style=for-the-badge&logo=github" alt="GitHub Repos" />
 </p>
