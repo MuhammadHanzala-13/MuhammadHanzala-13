@@ -79,6 +79,8 @@
   <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,pytorch,tensorflow,fastapi,nextjs,postgres,mongodb,redis,docker,git,linux&theme=dark" />
 </p>
 </div>
+
+
 <!--  -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/MuhammadHanzala-13?color=00B4D8&label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
